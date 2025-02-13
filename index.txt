@@ -1,296 +1,307 @@
-
-Wealthome
-
-This is a realestate website devloped by codewithsadee
+Homeverse - Find your dream house
 
 
+# HEADER
 
-#---------- HEADER ----------#
+<ion-icon name="mail-outline"></ion-icon>
+info@homeverse.com
 
-alt = logo
+<ion-icon name="location-outline"></ion-icon>
+15/A, Nest Tower, NYC
+
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-instagram"></ion-icon>
+<ion-icon name="logo-pinterest"></ion-icon>
+
+Add Listing
+
+alt = Homeverse logo
+
+aria-label = Close Menu
+<ion-icon name="close-outline"></ion-icon>
 
 Home
-Rent
-Sell
-Buy
 About
+Service
+Property
+Blog
+Contact
 
-Login
-Get Started
-
-aria-label = toggle navbar
-
-<span class="material-symbols-rounded open" aria-hidden="true">menu</span>
-<span class="material-symbols-rounded close" aria-hidden="true">close</span>
-
-
-
-#---------- HERO ----------#
-
-Find a place where you can be yourself.
-
-If you're looking for a place where you can be yourself, don't give up. Keep searching until you find a place that feels like home.
-
-Want to
-
-Buy
-Sell
-Rent
-
-<span class="material-symbols-rounded" aria-hidden="true">real_estate_agent</span>
-
-Property type
-Any
-Houses
-Apartments
-Villa
-Townhome
-Bungalow
-Loft
-
-<span class="material-symbols-rounded" aria-hidden="true">gite</span>
-
-Location
-placeholder = Street, City, Zip...
-
-<span class="material-symbols-rounded" aria-hidden="true">location_on</span>
-
-<span class="material-symbols-rounded" aria-hidden="true">search</span>
+aria-label = Search
+<ion-icon name="search-outline"></ion-icon>
 Search
 
+aria-label = Profile
+<ion-icon name="person-outline"></ion-icon>
+Profile
+
+aria-label = Cart
+<ion-icon name="cart-outline"></ion-icon>
+Cart
+
+aria-label = Open Menu
+<ion-icon name="menu-outline"></ion-icon>
+Menu
 
 
 
+# HERO
 
-#---------- PROPERTY ----------#
+<ion-icon name="home"></ion-icon>
+Real Estate Agency
 
-Best home in your city
+Find Your Dream House By Us
 
-Lorem ipsum dolor sit amet consectetur. In quisque scelerisque eget id facilisis. Aliquam in libero egestas at.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.
 
-Explore more
+Make An Enquiry
 
-<span class="material-symbols-rounded" aria-hidden="true">arrow_outward</span>
-
-alt = COVA Home Realty
-
-New
-
-aria-label = add to favorite
-<span class="material-symbols-rounded" aria-hidden="true">favorite</span>
-
-$710.68
-COVA Home Realty
-1901 Thornridge Cir. Shiloh, Hawaii 81063
-
-<span class="material-symbols-rounded meta-icon" aria-hidden="true">bed</span>
-3 Bed
-
-<span class="material-symbols-rounded meta-icon" aria-hidden="true">bathtub</span>
-2 Bath
-
-<span class="material-symbols-rounded meta-icon" aria-hidden="true">straighten</span>
-1430 sqft 
-
-alt = Exit Realty
-
-$630.44
-Exit Realty
-
-2972 Westheimer Rd. Santa Ana, Illinois 85486
-
-5 Bed
-4 Bath
-1630 sqft
-
-alt = The Real Estate Group
-
-$475.22
-The Real Estate Group
-
-2118 Thornridge Cir. Syracuse, Connecticut 35624
-
-8 Bed
-5 Bath
-1240 sqft
-
-alt = 757 Realty
-
-$576.28
-757 Realty
-
-4140 Parker Rd. Allentown, New Mexico 31134
-
-6 Bed
-6 Bath
-1260 sqft
-
-alt = Beach Pros Realty Inc.
-
-$473.85
-Beach Pros Realty Inc.
-
-2715 Ash Dr. San Jose, South Dakota 83475
-
-10 Bed
-8 Bath
-2350 sqft
-
-alt = Keller Williams Elite Town Center
-
-$105.55
-Keller Williams Elite Town Center
-
-3517 W. Gray St. Utica, Pennsylvania 57867
-
-8 Bed
-8 Bath
-1950 sqft
-
-alt = All Pros Real Estate
-
-$739.65
-All Pros Real Estate
-
-8502 Preston Rd. Inglewood, Maine 98380
-
-4 Bed
-4 Bath
-1580 sqft
-
-alt = FIT Realty
-
-$948.55
-
-FIT Realty
-4517 Washington Ave. Manchester, Kentucky 39495
-
-3 Bed
-2 Bath
-1120 sqft
+alt = Modern house model
 
 
 
+# ABOUT
 
-#---------- FEATURE ----------#
+alt = House interior
 
-alt = feature banner
+About Us
 
-We Specialize In Quality Home Renovations
+The Leading Real Estate Rental Marketplace.
 
-Looking to renovate your home to reflect your style and personality? Look no further than our team of experts who specialize in quality home renovations to transform your space into a dream home you’ll love. From design to execution.
+Over 39,000 people work for us in more than 70 countries all over the This breadth of global coverage, combined with specialist services
 
-<span class="material-symbols-rounded feature-icon" aria-hidden="true">check_circle</span>
+<ion-icon name="home-outline"></ion-icon>
+Smart Home Design
 
-Smart Home
+<ion-icon name="leaf-outline"></ion-icon>
 Beautiful Scene Around
-Exceptional lifestyle
+
+<ion-icon name="wine-outline"></ion-icon>
+Exceptional Lifestyle
+
+<ion-icon name="shield-checkmark-outline"></ion-icon>
 Complete 24/7 Security
 
-We Are Experts In Historic Home Renovations
+"Enimad minim veniam quis nostrud exercitation
+llamco laboris. Lorem ipsum dolor sit amet"
 
-Looking to renovate your home to reflect your style and personality? Look no further than our team of experts who specialize in quality home renovations to transform your space into a dream home you’ll love. From design to execution.
-
-Smart Home
-Beautiful Scene Around
-Exceptional lifestyle
-Complete 24/7 Security
-
-alt = feature banner
+Our Services
 
 
 
-#---------- VIDEO ----------#
+#SERVICE
 
-aria-label = play video
-<span class="material-symbols-rounded" aria-hidden="true">play_arrow</span>
+Our Services
 
+Our Main Focus
 
+alt = Service icon
 
-#---------- STORY ----------#
+Buy a home
 
-Our Customers
+over 1 million+ homes for sale available on the website, we can match you with a house you will want to call home.
 
-We Help 1000+ Family Find Their True Home
+Find A Home
+<ion-icon name="arrow-forward-outline"></ion-icon>
 
-alt = John smith
-alt = Jane smith
+Rent a home
 
-99+
-
-View All Stories
-
-<span class="material-symbols-rounded" aria-hidden="true">arrow_outward</span>
-
-Chris Traeger
-
-<span class="material-symbols-rounded" aria-hidden="true">star</span>
-5.0
-
-alt = Chris Traeger
-
-Duke Silver
-
-<span class="material-symbols-rounded" aria-hidden="true">star</span>
-5.0
-
-alt = Duke Silver
-
-Tsukasa Aoi
-
-<span class="material-symbols-rounded" aria-hidden="true">star</span>
-5.0
-
-alt = Tsukasa Aoi
-
-Freida Varnes
-
-<span class="material-symbols-rounded" aria-hidden="true">star</span>
-5.0
-
-alt = Freida Varnes
-
-Carl Lorthner
-
-<span class="material-symbols-rounded" aria-hidden="true">star</span>
-5.0
-
-alt = Carl Lorthner
-
-Marci Senter
-
-<span class="material-symbols-rounded" aria-hidden="true">star</span>
-5.0
-
-alt = Marci Senter
+Sell a home
 
 
 
+#PROPERTY
+
+Properties
+
+Featured Listings
+
+alt = New Apartment Nice View
+
+For Rent
+
+<ion-icon name="location"></ion-icon>
+Belmont Gardens, Chicago
+
+<ion-icon name="camera"></ion-icon>
+4
+
+<ion-icon name="film"></ion-icon>
+2
+
+$34,900/Month
+
+New Apartment Nice View
+
+Beautiful Huge 1 Family House In Heart Of Westbury. Newly Renovated With New Wood
+
+3
+<ion-icon name="bed-outline"></ion-icon>
+Bedrooms
+
+2
+<ion-icon name="man-outline"></ion-icon>
+Bathrooms
+
+3450
+<ion-icon name="square-outline"></ion-icon>
+Square Ft
+
+William Seklo
+Estate Agents
+
+<ion-icon name="resize-outline"></ion-icon>
+<ion-icon name="heart-outline"></ion-icon>
+<ion-icon name="add-circle-outline"></ion-icon>
 
 
-#---------- FOOTER ----------#
+For Sales
 
-alt = logo
+alt = Modern Apartments
+Modern Apartments
 
-Lorem ipsum dolor sit amet consectetur. Non bibendum sit non congue pharetra pulvinar leo. Sed ut amet ipsum.
+alt = Comfortable Apartment
+Comfortable Apartment
 
-Quick link
+alt = Luxury villa in Rego Park
+Luxury villa in Rego Park
 
-Home
-Buy
-Sell
-Rent
 
-Support
 
-About us
+# FEATURES
+
+Our Aminities
+
+Building Aminities
+
+<ion-icon name="car-sport-outline"></ion-icon>
+Parking Space
+
+<ion-icon name="arrow-forward-outline"></ion-icon>
+
+<ion-icon name="water-outline"></ion-icon>
+Swimming Pool
+
+<ion-icon name="shield-checkmark-outline"></ion-icon>
+Private Security
+
+<ion-icon name="fitness-outline"></ion-icon>
+Medical Center
+
+<ion-icon name="library-outline"></ion-icon>
+Library Area
+
+<ion-icon name="bed-outline"></ion-icon>
+King Size Beds
+
+<ion-icon name="home-outline"></ion-icon>
+Smart Homes
+
+<ion-icon name="football-outline"></ion-icon>
+Kid’s Playland
+
+
+
+# BLOG
+
+News & Blogs
+
+Leatest News Feeds
+
+alt = The Most Inspiring Interior Design Of 2021
+
+<ion-icon name="person"></ion-icon>
+by: Admin
+
+<ion-icon name="pricetags"></ion-icon>
+Interior
+
+The Most Inspiring Interior Design Of 2021
+
+<ion-icon name="calendar"></ion-icon>
+Apr 27, 2022
+
+Read More
+
+
+alt = Recent Commercial Real Estate Transactions
+
+Estate
+
+Recent Commercial Real Estate Transactions
+
+
+alt = Renovating a Living Room? Experts Share Their Secrets
+
+Room
+
+Renovating a Living Room? Experts Share Their Secrets
+
+
+
+# CTA
+
+Looking for a dream home?
+
+We can help you realize your dream of a new home
+
+Explore Properties
+<ion-icon name="arrow-forward-outline"></ion-icon>
+
+
+
+# FOOTER
+
+alt = Homeverse logo
+
+Lorem Ipsum is simply dummy text of the and typesetting industry. Lorem Ipsum is dummy text of the printing.
+
+<ion-icon name="location-outline"></ion-icon>
+Brooklyn, New York, United States
+
+<ion-icon name="call-outline"></ion-icon>
++0123-456789
+
+<ion-icon name="mail-outline"></ion-icon>
+contact@homeverse.com
+
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-linkedin"></ion-icon>
+<ion-icon name="logo-youtube"></ion-icon>
+
+Company
+
+About
+Blog
+All Products
+Locations Map
+FAQ
 Contact us
-Privacy Policy
+
+Services
+
+Order tracking
+Wish List
+Login
+My account
 Terms & Conditions
+Promotional Offers
 
-Get in touch
+Customer Care
 
-hello@wealthome.com
-4140 Parker Rd. Allentown, New Mexico 31134
+Login
+My account
+Wish List
+Order tracking
+FAQ
+Contact us
 
-Copyright 2023 codewithsadee
+&copy; 2022 codewithsadee. All Rights Reserved
+
+
+
+# GO TO TOP
+
+<ion-icon name="chevron-up-outline"></ion-icon>
