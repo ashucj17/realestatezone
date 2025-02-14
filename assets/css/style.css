@@ -343,7 +343,10 @@ button, a { transition: var(--transition); }
   padding-block: 25px;
 }
 
-.header-bottom .logo img { margin-inline: auto; }
+.header-bottom .logo img { margin-inline: auto;
+/* width: 70px;
+height: 50px;
+border-radius: 5px;*/ } 
 
 .navbar {
   background: var(--white);
@@ -1054,7 +1057,10 @@ button, a { transition: var(--transition); }
 
 .footer-brand { margin-bottom: 70px; }
 
-.footer-brand .logo { margin-bottom: 15px; }
+.footer-brand .logo { margin-bottom: 15px;
+display: flex;
+justify-content: center; 
+align-items: flex-start;}
 
 .section-text {
   font-size: var(--fs-5);
