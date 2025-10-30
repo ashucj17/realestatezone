@@ -7,3 +7,5 @@ I do not claim any ownership over the original assets, design elements, or brand
 If you are a copyright owner and believe that your rights have been infringed by any material on this site, please contact me immediately, and I will take appropriate action, including removal of the content in question.
 
 No copyright infringement is intended.
+
+Site URL: https://ashucj17.github.io/realestatezone/
